@@ -1,5 +1,5 @@
 # Neural-network-and-deep-learning
-the following codes include:
+This repositories include python codes for the following projects:
 
 • Utlizing Multi Layer Perceptron(MLP) for regression for housing market prices and classification on Cifar-10
 
@@ -9,4 +9,4 @@ the following codes include:
 
 • stock market prediction using RNN and LSTM and GRU
 
-• text generation with harry potter4's book as dataset using RNN
+• text generation with harry potter4's book as dataset using LSTM
